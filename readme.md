@@ -1,5 +1,5 @@
 # Introduction Microsoft Power BI
-This repository contains the hands-on lab exercises for an Introduction to Microsoft P. The labs are designed to accompany the learning materials and enable learners to practice using the technologies they describe.
+This repository contains the hands-on lab exercises for an Introduction to Microsoft Power BI. The labs are designed to accompany the learning materials and enable learners to practice using the technologies they describe.
 
 ## What are we doing?
 
