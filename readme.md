@@ -1,9 +1,5 @@
 # Introduction Microsoft Power BI
-This repository contains the hands-on lab exercises for Microsoft course [PL-300: Microsoft Power BI Data Analyst](https://docs.microsoft.com/en-us/learn/certifications/courses/PL-300T00). The labs are designed to accompany the learning materials and enable learners to practice using the technologies they describe.
-
-- **Are you a MCT?** - Have a look at our [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
-- **Need to manually build the lab instructions?** - Instructions are available in the [MicrosoftLearning/Docker-Build](https://github.com/MicrosoftLearning/Docker-Build) repository
-- **Do you need a refresher on which labs go with which course presentation?** - Check out the [GitHub Page](https://microsoftlearning.github.io/PL-300-Microsoft-Power-BI-Data-Analyst/)
+This repository contains the hands-on lab exercises for an Introduction to Microsoft P. The labs are designed to accompany the learning materials and enable learners to practice using the technologies they describe.
 
 ## What are we doing?
 
